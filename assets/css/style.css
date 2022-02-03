@@ -425,8 +425,8 @@ Header Area CSS
 =================================================*/
 .top-header {
   background-color: #f4f9fd;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   border-bottom: 1px solid #eee;
 }
 
@@ -2542,7 +2542,7 @@ margin: 0 auto;
       }
 
 
-      .innerbanner{background-color: #0077c8;padding: 40px 15px;}
+      .innerbanner{background-color: #0077c8;padding: 40px 15px 30px;}
       .innerbanner h2{}
       .bc-icons-2 .breadcrumb{background-color: transparent;padding: 0;margin: 0;}
       .bc-icons-2 .breadcrumb-item + .breadcrumb-item::before {
